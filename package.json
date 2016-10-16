@@ -1,0 +1,21 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "A simple Calendar",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qi fu <cs.qifu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "1.4.2",
+    "electron-prebuilt": "1.4.2",
+    "gulp": "3.9.1",
+    "gulp-autoprefixer": "3.1.1",
+    "gulp-clean-css": "2.0.13",
+    "gulp-concat": "2.6.0",
+    "gulp-sass": "2.3.2"
+  }
+}
